@@ -1,0 +1,6 @@
+on localhost 
+head to /onlineAttence/admin
+
+use 
+username  :::::::::::  admin
+Password :::::::::::: admin
